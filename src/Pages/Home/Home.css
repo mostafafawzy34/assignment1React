@@ -1,0 +1,34 @@
+.home-wrapper {
+  background-color: #1abc9c;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.home-content {
+  text-align: center;
+  width: 100%;
+}
+
+.home-avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.home-divider .line {
+  width: 80px;
+  height: 4px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.home-divider .star {
+  font-size: 1.5rem;
+  color: white;
+}
